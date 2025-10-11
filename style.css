@@ -1,7 +1,33 @@
 body{
     font-family: sans-serif;
+    background-color: chartreuse;
+}
+.one{
+    padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+#courses{
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
 }
 
+.two{
+      padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+} 
+.one{
+    text-align: center;
+    padding: 1%;
+    background-color: yellow;
+    colour:rgba(0, 247, 255, 0.922)
+}
 #home{
     display: flex;
     text-align: center;
