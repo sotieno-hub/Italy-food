@@ -53,3 +53,11 @@ body{
     border-radius: 25%;
     padding: 1%;
 }
+#footer{
+    text-align: center;
+    font-family: sans-serif;
+    background-color:darkgreen;
+    color:aqua;
+    padding: 5%;
+    
+}
