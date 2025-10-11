@@ -6,4 +6,29 @@ body{
     padding: 1%;
     background-color: yellow;
     colour:rgba(0, 247, 255, 0.922)
+
+#home{
+    display: flex;
+    text-align: center;
+    padding: 2%;
+    justify-content: space-around;
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    color: aqua;
+    text-align: center;
+    font-family: sans-serif;
+    background-image: linear-gradient(rgb(80, 11, 219),blue,blue,);
+    flex-direction: column;
+    float: left;
+}
+.one img{
+    border-radius: 25%;
+    display: flex;
+}
+.text{
+    background-color: aqua;
+    border-radius: 25%;
+    padding: 1%;
 }
