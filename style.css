@@ -1,3 +1,51 @@
 body{
     font-family: sans-serif;
 }
+#nav ul{
+display: flex;
+padding: 2%;
+list-style: none;
+font-family: sans-serif;
+justify-content: space-between;
+background-color: rgb(16, 238, 16);
+background-image: linear-gradient(rgba(0, 0, 0, 0.162),rgba(0, 0, 0, 0.189),rgba(0, 0, 0, 0.148),rgba(0, 0, 0, 0.178)),url("https://www.istockphoto.com/photo/hand-of-young-male-chef-putting-aromatic-herb-on-top-of-roasted-meat-gm1502384708-522673295?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_media&utm_term=chefs");
+}
+
+ #contacts img{
+text-align: center;
+background-color: blue;
+color: chartreuse;
+align-items: center;
+padding: 2%;
+ }  
+ 
+ #contacts {
+   display: flex;
+   
+   justify-content: space-around;
+   padding: 2%;
+   border:  green dotted 2% ;
+   text-shadow: 2%;
+   background: green;
+ }
+ .one{
+    padding: 1%;
+    border:whitesmoke 1px solid ;
+    margin:5px ;
+
+ }
+ .two{
+    padding: 1%;
+    border:whitesmoke 1px solid ;
+    margin:5px ;
+
+ }
+ .three{
+    padding: 1%;
+    border:rgb(245, 245, 245) 1px solid ;
+    margin:5px ;
+ }
+.zero{
+
+    text-align: center;
+}
