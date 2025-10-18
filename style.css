@@ -15,6 +15,13 @@ body{
     display: flex;
 }
 
+#courses img{
+    display: flex;
+    border-radius: 35%;
+    justify-content: space-around;
+
+}
+
 .two{
       padding: 1%;
     border:brown 1px solid;
@@ -60,4 +67,55 @@ body{
     color:aqua;
     padding: 5%;
     
+}
+.three{   
+     padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+.four{
+    padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+.five{
+     padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+.six{
+     padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+
+#testimonials{
+    padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+    text-align: center;
+    text-wrap: inherit;
+
+}
+.one{
+    padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+#testimonials img {
+    display: flex;
+    border-radius: 25%;
+    justify-content: space-around;
 }
