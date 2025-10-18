@@ -49,3 +49,119 @@ padding: 2%;
 
     text-align: center;
 }
+.one{
+    padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+#courses{
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+}
+
+#courses img{
+    display: flex;
+    border-radius: 35%;
+    justify-content: space-around;
+
+}
+
+.two{
+      padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+} 
+.one{
+    text-align: center;
+    padding: 1%;
+    background-color: yellow;
+    colour:rgba(0, 247, 255, 0.922)
+}
+#home{
+    display: flex;
+    text-align: center;
+    padding: 2%;
+    justify-content: space-around;
+    height: 70vh;
+    margin-top: 0%;
+    color: aqua;
+    background-image: linear-gradient(rgb(80, 11, 219),blue,blue,);
+    background-size: cover;
+}
+.one img{
+    border-radius: 25%;
+    align-items: center;
+    margin: 5px;
+    width: 50vw;
+}
+.two{
+    margin:auto;
+    padding: 5%;
+    text-align: justify;
+    text-transform: capitalize;
+    }
+#footer{
+    text-align: center;
+    font-family: sans-serif;
+    background-color:darkgreen;
+    color:aqua;
+    padding: 5%;
+    
+}
+.three{   
+     padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+.four{
+    padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+.five{
+     padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+.six{
+     padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+
+#testimonials{
+    padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+    text-align: center;
+    text-wrap: inherit;
+
+}
+.one{
+    padding: 1%;
+    border:brown 1px solid;
+    margin: 5px;
+    background-color: rgb(66, 212, 17);
+    border-radius: 25% 0 25% 0;
+}
+#testimonials img {
+    display: flex;
+    border-radius: 25%;
+    justify-content: space-around;
+
+}
